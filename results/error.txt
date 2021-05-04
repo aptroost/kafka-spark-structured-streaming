@@ -1,0 +1,898 @@
+A variable type transformation failed: 2B,410,DME,4029,TGK,\N,,0,CR2
+A variable type transformation failed: 2B,410,TGK,\N,DME,4029,,0,CR2
+A variable type transformation failed: 2G,1654,IKT,2937,KCK,\N,,0,AN4
+A variable type transformation failed: 2G,1654,KCK,\N,IKT,2937,,0,AN4
+A variable type transformation failed: 3H,\N,AKV,5506,YIK,5504,,0,DH8
+A variable type transformation failed: 3H,\N,AKV,5506,YPX,6727,,0,DH8
+A variable type transformation failed: 3H,\N,XGR,5512,YVP,154,,0,DHT BET
+A variable type transformation failed: 3H,\N,YGL,62,YGW,5496,,0,DHT
+A variable type transformation failed: 3H,\N,YGL,62,YPX,6727,,0,73M
+A variable type transformation failed: 3H,\N,YGL,62,YUL,146,,0,73M
+A variable type transformation failed: 3H,\N,YGW,5496,YGL,62,,0,DHT
+A variable type transformation failed: 3H,\N,YGW,5496,YPH,5520,,0,BET
+A variable type transformation failed: 3H,\N,YGW,5496,YSK,5529,,0,DH8
+A variable type transformation failed: 3H,\N,YGW,5496,YUD,5515,,0,DH8
+A variable type transformation failed: 3H,\N,YGW,5496,YUL,146,,0,DH8
+A variable type transformation failed: 3H,\N,YGW,5496,YUY,149,,0,DH8
+A variable type transformation failed: 3H,\N,YIK,5504,AKV,5506,,0,DH8
+A variable type transformation failed: 3H,\N,YIK,5504,YZG,5535,,0,DH8
+A variable type transformation failed: 3H,\N,YKG,5481,YPJ,5508,,0,DHT DH8
+A variable type transformation failed: 3H,\N,YKG,5481,YQC,5499,,0,DH8
+A variable type transformation failed: 3H,\N,YKG,5481,YVP,154,,0,DH8 DHT
+A variable type transformation failed: 3H,\N,YKL,80,YQB,111,,0,DH8
+A variable type transformation failed: 3H,\N,YKL,80,YVP,154,,0,DH8 BET
+A variable type transformation failed: 3H,\N,YKL,80,YWK,161,,0,BET
+A variable type transformation failed: 3H,\N,YKL,80,YZV,202,,0,BET DH8
+A variable type transformation failed: 3H,\N,YPH,5520,YPX,6727,,0,DH8 BET
+A variable type transformation failed: 3H,\N,YPH,5520,YUD,5515,,0,DH8
+A variable type transformation failed: 3H,\N,YPH,5520,YVP,154,,0,BET
+A variable type transformation failed: 3H,\N,YPJ,5508,YKG,5481,,0,DHT DH8
+A variable type transformation failed: 3H,\N,YPJ,5508,YTQ,6728,,0,DHT DH8
+A variable type transformation failed: 3H,\N,YPJ,5508,YVP,154,,0,DHT
+A variable type transformation failed: 3H,\N,YPX,6727,AKV,5506,,0,DH8
+A variable type transformation failed: 3H,\N,YPX,6727,YGL,62,,0,73M
+A variable type transformation failed: 3H,\N,YPX,6727,YPH,5520,,0,DH8
+A variable type transformation failed: 3H,\N,YPX,6727,YVP,154,,0,BET
+A variable type transformation failed: 3H,\N,YQB,111,YKL,80,,0,DH8
+A variable type transformation failed: 3H,\N,YQB,111,YUL,146,,0,DH8
+A variable type transformation failed: 3H,\N,YQC,5499,YKG,5481,,0,DH8
+A variable type transformation failed: 3H,\N,YQC,5499,YWB,7253,,0,DH8
+A variable type transformation failed: 3H,\N,YSK,5529,YGW,5496,,0,DH8
+A variable type transformation failed: 3H,\N,YSK,5529,YUD,5515,,0,DH8
+A variable type transformation failed: 3H,\N,YTQ,6728,YPJ,5508,,0,DHT DH8
+A variable type transformation failed: 3H,\N,YTQ,6728,YVP,154,,0,DHT DH8
+A variable type transformation failed: 3H,\N,YUD,5515,YGW,5496,,0,DH8
+A variable type transformation failed: 3H,\N,YUD,5515,YPH,5520,,0,DH8
+A variable type transformation failed: 3H,\N,YUD,5515,YSK,5529,,0,DH8
+A variable type transformation failed: 3H,\N,YUL,146,YGL,62,,0,73M
+A variable type transformation failed: 3H,\N,YUL,146,YGW,5496,,0,DH8
+A variable type transformation failed: 3H,\N,YUL,146,YQB,111,,0,DH8
+A variable type transformation failed: 3H,\N,YUL,146,YUY,149,,0,DH8
+A variable type transformation failed: 3H,\N,YUY,149,YGW,5496,,0,DH8
+A variable type transformation failed: 3H,\N,YUY,149,YUL,146,,0,DH8
+A variable type transformation failed: 3H,\N,YVP,154,XGR,5512,,0,DHT BET
+A variable type transformation failed: 3H,\N,YVP,154,YGW,5496,,0,BET
+A variable type transformation failed: 3H,\N,YVP,154,YKG,5481,,0,DH8
+A variable type transformation failed: 3H,\N,YVP,154,YKL,80,,0,DH8 BET
+A variable type transformation failed: 3H,\N,YVP,154,YPH,5520,,0,BET
+A variable type transformation failed: 3H,\N,YVP,154,YPJ,5508,,0,DHT
+A variable type transformation failed: 3H,\N,YVP,154,YPX,6727,,0,BET
+A variable type transformation failed: 3H,\N,YVP,154,YTQ,6728,,0,DHT DH8
+A variable type transformation failed: 3H,\N,YWB,7253,YQC,5499,,0,DH8
+A variable type transformation failed: 3H,\N,YWB,7253,YZG,5535,,0,DH8
+A variable type transformation failed: 3H,\N,YWK,161,YKL,80,,0,BET
+A variable type transformation failed: 3H,\N,YWK,161,YZV,202,,0,BET
+A variable type transformation failed: 3H,\N,YZG,5535,YIK,5504,,0,DH8
+A variable type transformation failed: 3H,\N,YZG,5535,YWB,7253,,0,DH8
+A variable type transformation failed: 3H,\N,YZV,202,YKL,80,,0,BET DH8
+A variable type transformation failed: 3H,\N,YZV,202,YWK,161,,0,BET
+A variable type transformation failed: 4E,\N,MCG,5965,NIB,7214,,0,PAG
+A variable type transformation failed: 4E,\N,MCG,5965,TCT,7215,,0,PAG
+A variable type transformation failed: 4E,\N,NIB,7214,MCG,5965,,0,PAG
+A variable type transformation failed: 4E,\N,TCT,7215,TLJ,3423,,0,PAG
+A variable type transformation failed: 4E,\N,TLJ,3423,MCG,5965,,0,PAG
+A variable type transformation failed: 4O,17885,MEX,1824,PQM,\N,,0,SU9
+A variable type transformation failed: 4O,17885,PQM,\N,MEX,1824,,0,SU9
+A variable type transformation failed: 4W,\N,AKP,6712,FAI,3832,,0,PA2
+A variable type transformation failed: 4W,\N,BTT,3417,AKP,6712,,0,PA2
+A variable type transformation failed: 4W,\N,BTT,3417,CXF,7119,,0,PA2
+A variable type transformation failed: 4W,\N,CEM,7116,IRC,7236,,0,PA2
+A variable type transformation failed: 4W,\N,CIK,7105,FAI,3832,,0,PA2
+A variable type transformation failed: 4W,\N,CIK,7105,FYU,3420,,0,PA2
+A variable type transformation failed: 4W,\N,CXF,7119,AKP,6712,,0,PA2
+A variable type transformation failed: 4W,\N,FAI,3832,BTT,3417,,0,PA2
+A variable type transformation failed: 4W,\N,FAI,3832,CEM,7116,,0,PA2
+A variable type transformation failed: 4W,\N,FAI,3832,CIK,7105,,0,PA2
+A variable type transformation failed: 4W,\N,FAI,3832,FYU,3420,,0,PA2
+A variable type transformation failed: 4W,\N,FAI,3832,MLY,7246,,0,CN1
+A variable type transformation failed: 4W,\N,FAI,3832,RMP,7112,,0,CN1
+A variable type transformation failed: 4W,\N,FAI,3832,SVS,9741,,0,PA2
+A variable type transformation failed: 4W,\N,FAI,3832,TAL,7113,,0,PA2
+A variable type transformation failed: 4W,\N,FAI,3832,WBQ,7115,,0,PA2
+A variable type transformation failed: 4W,\N,FYU,3420,CIK,7105,,0,PA2
+A variable type transformation failed: 4W,\N,FYU,3420,FAI,3832,,0,PA2
+A variable type transformation failed: 4W,\N,IRC,7236,FAI,3832,,0,PA2
+A variable type transformation failed: 4W,\N,MLY,7246,MNT,7110,,0,CN1
+A variable type transformation failed: 4W,\N,MNT,7110,FAI,3832,,0,CN1
+A variable type transformation failed: 4W,\N,RMP,7112,FAI,3832,,0,CN1
+A variable type transformation failed: 4W,\N,SVS,9741,FAI,3832,,0,PA2
+A variable type transformation failed: 4W,\N,SVS,9741,WBQ,7115,,0,PA2
+A variable type transformation failed: 4W,\N,TAL,7113,FAI,3832,,0,PA2
+A variable type transformation failed: 4W,\N,WBQ,7115,FAI,3832,,0,PA2
+A variable type transformation failed: 4W,\N,WBQ,7115,SVS,9741,,0,PA2
+A variable type transformation failed: 5U,\N,BZE,1957,FRS,4024,,0,CNA
+A variable type transformation failed: 5U,\N,FRS,4024,BZE,1957,,0,CNA
+A variable type transformation failed: 5U,\N,FRS,4024,GUA,1767,,0,EMB SF3
+A variable type transformation failed: 5U,\N,GUA,1767,FRS,4024,,0,SF3 EMB
+A variable type transformation failed: 5U,\N,GUA,1767,SAP,1772,,0,SF3
+A variable type transformation failed: 5U,\N,GUA,1767,TGU,1776,,0,SF3
+A variable type transformation failed: 5U,\N,RTB,1774,GUA,1767,,0,SF3
+A variable type transformation failed: 5U,\N,SAP,1772,GUA,1767,,0,SF3
+A variable type transformation failed: 5U,\N,TGU,1776,GUA,1767,,0,SF3
+A variable type transformation failed: 5Z,18946,CPT,797,PBZ,\N,,0,BEH
+A variable type transformation failed: 5Z,18946,PBZ,\N,CPT,797,,0,BEH
+A variable type transformation failed: 5Z,18946,PBZ,\N,JNB,813,,0,BEH
+A variable type transformation failed: 6E,2850,AMD,2994,HYD,\N,,0,320
+A variable type transformation failed: 6E,2850,BBI,3042,HYD,\N,,0,320
+A variable type transformation failed: 6E,2850,BLR,3131,HYD,\N,,0,320
+A variable type transformation failed: 6E,2850,BOM,2997,HYD,\N,,0,320
+A variable type transformation failed: 6E,2850,CCU,3043,HYD,\N,,0,320
+A variable type transformation failed: 6E,2850,COK,3136,HYD,\N,,0,320
+A variable type transformation failed: 6E,2850,DEL,3093,HYD,\N,,0,320
+A variable type transformation failed: 6E,2850,DXB,2188,HYD,\N,,0,320
+A variable type transformation failed: 6E,2850,GOI,3007,HYD,\N,,0,320
+A variable type transformation failed: 6E,2850,HYD,\N,AMD,2994,,0,320
+A variable type transformation failed: 6E,2850,HYD,\N,BBI,3042,,0,320
+A variable type transformation failed: 6E,2850,HYD,\N,BLR,3131,,0,320
+A variable type transformation failed: 6E,2850,HYD,\N,BOM,2997,,0,320
+A variable type transformation failed: 6E,2850,HYD,\N,CCU,3043,,0,320
+A variable type transformation failed: 6E,2850,HYD,\N,COK,3136,,0,320
+A variable type transformation failed: 6E,2850,HYD,\N,DEL,3093,,0,320
+A variable type transformation failed: 6E,2850,HYD,\N,DXB,2188,,0,320
+A variable type transformation failed: 6E,2850,HYD,\N,GOI,3007,,0,320
+A variable type transformation failed: 6E,2850,HYD,\N,JAI,3098,,0,320
+A variable type transformation failed: 6E,2850,HYD,\N,MAA,3144,,0,320
+A variable type transformation failed: 6E,2850,HYD,\N,PNQ,3017,,0,320
+A variable type transformation failed: 6E,2850,HYD,\N,RPR,3020,,0,320
+A variable type transformation failed: 6E,2850,HYD,\N,VTZ,3066,,0,320
+A variable type transformation failed: 6E,2850,JAI,3098,HYD,\N,,0,320
+A variable type transformation failed: 6E,2850,MAA,3144,HYD,\N,,0,320
+A variable type transformation failed: 6E,2850,PNQ,3017,HYD,\N,,0,320
+A variable type transformation failed: 6E,2850,RPR,3020,HYD,\N,,0,320
+A variable type transformation failed: 6E,2850,VTZ,3066,HYD,\N,,0,320
+A variable type transformation failed: 6L,\N,YEV,54,YHI,68,,0,DHT
+A variable type transformation failed: 6L,\N,YEV,54,YPC,4244,,0,DHT
+A variable type transformation failed: 6L,\N,YEV,54,YSY,139,,0,DHT
+A variable type transformation failed: 6L,\N,YEV,54,YUB,145,,0,DHT
+A variable type transformation failed: 6L,\N,YEV,54,ZFM,206,,0,DHT
+A variable type transformation failed: 6L,\N,YHI,68,YEV,54,,0,DHT
+A variable type transformation failed: 6L,\N,YHI,68,YSY,139,,0,DHT
+A variable type transformation failed: 6L,\N,YPC,4244,YEV,54,,0,DHT
+A variable type transformation failed: 6L,\N,YSY,139,YEV,54,,0,DHT
+A variable type transformation failed: 6L,\N,YSY,139,YHI,68,,0,DHT
+A variable type transformation failed: 6L,\N,YUB,145,YEV,54,,0,DHT
+A variable type transformation failed: 6L,\N,ZFM,206,YEV,54,,0,DHT
+A variable type transformation failed: 7P,1500,OGM,\N,MPP,8207,,0,DHT
+A variable type transformation failed: 7P,1500,PAC,1869,OGM,\N,,0,DHT
+A variable type transformation failed: 7S,\N,ANI,5967,HCR,5962,,0,CNA
+A variable type transformation failed: 7S,\N,ANI,5967,KLG,5964,,0, CNA
+A variable type transformation failed: 7S,\N,ANV,6713,KGX,7219,,0, CNA
+A variable type transformation failed: 7S,\N,HCR,5962,ANV,6713,,0,CNA
+A variable type transformation failed: 7S,\N,KGX,7219,SHX,7090,,0, CNA
+A variable type transformation failed: 7S,\N,KLG,5964,RSH,7098,,0, CNA
+A variable type transformation failed: 7S,\N,RSH,7098,ANI,5967,,0,
+A variable type transformation failed: 7S,\N,SHX,7090,ANI,5967,,0,
+A variable type transformation failed: 8V,55,FAI,3832,LMA,\N,,0,PAG
+A variable type transformation failed: 8V,55,LMA,\N,FAI,3832,,0,PAG
+A variable type transformation failed: 9D,\N,JED,2072,NDJ,999,,0,737 747
+A variable type transformation failed: 9M,\N,YBL,30,YQQ,119,,0,BEH
+A variable type transformation failed: 9M,\N,YBL,30,YVR,156,,0,BEH
+A variable type transformation failed: 9M,\N,YDQ,48,YVR,156,,0,DH1
+A variable type transformation failed: 9M,\N,YDQ,48,YYE,180,,0,DH1
+A variable type transformation failed: 9M,\N,YEG,49,YOJ,99,,0,BEH
+A variable type transformation failed: 9M,\N,YEG,49,YOP,7266,,0,BEH
+A variable type transformation failed: 9M,\N,YEG,49,YXJ,168,,0,D38 DH3
+A variable type transformation failed: 9M,\N,YEG,49,YYC,178,,0,BEH D38 DH3
+A variable type transformation failed: 9M,\N,YKA,78,YVR,156,,0,BEH
+A variable type transformation failed: 9M,\N,YKA,78,YXS,172,,0,BEH
+A variable type transformation failed: 9M,\N,YLL,85,YYC,178,,0,BEH
+A variable type transformation failed: 9M,\N,YLW,87,YXS,172,,0,BEH
+A variable type transformation failed: 9M,\N,YOJ,99,YEG,49,,0,BEH
+A variable type transformation failed: 9M,\N,YOJ,99,YOP,7266,,0,BEH
+A variable type transformation failed: 9M,\N,YOP,7266,YEG,49,,0,BEH
+A variable type transformation failed: 9M,\N,YOP,7266,YOJ,99,,0,BEH
+A variable type transformation failed: 9M,\N,YQQ,119,YBL,30,,0,BEH
+A variable type transformation failed: 9M,\N,YQQ,119,YVR,156,,0,BEH
+A variable type transformation failed: 9M,\N,YQZ,127,YVR,156,,0,BEH
+A variable type transformation failed: 9M,\N,YQZ,127,YWL,162,,0,BEH
+A variable type transformation failed: 9M,\N,YVR,156,YBL,30,,0,BEH
+A variable type transformation failed: 9M,\N,YVR,156,YDQ,48,,0,DH1
+A variable type transformation failed: 9M,\N,YVR,156,YKA,78,,0,BEH
+A variable type transformation failed: 9M,\N,YVR,156,YQQ,119,,0,BEH
+A variable type transformation failed: 9M,\N,YVR,156,YQZ,127,,0,BEH
+A variable type transformation failed: 9M,\N,YVR,156,YWL,162,,0,BEH
+A variable type transformation failed: 9M,\N,YWL,162,YQZ,127,,0,BEH
+A variable type transformation failed: 9M,\N,YWL,162,YVR,156,,0,BEH
+A variable type transformation failed: 9M,\N,YXJ,168,YEG,49,,0,D38 DH3
+A variable type transformation failed: 9M,\N,YXJ,168,YXS,172,,0,BEH
+A variable type transformation failed: 9M,\N,YXJ,168,YYE,180,,0,D38 BEH DH3
+A variable type transformation failed: 9M,\N,YXS,172,YKA,78,,0,BEH
+A variable type transformation failed: 9M,\N,YXS,172,YLW,87,,0,BEH
+A variable type transformation failed: 9M,\N,YXS,172,YXJ,168,,0,BEH
+A variable type transformation failed: 9M,\N,YXS,172,YXT,173,,0,DH3
+A variable type transformation failed: 9M,\N,YXS,172,YYC,178,,0,DH3
+A variable type transformation failed: 9M,\N,YXS,172,YYD,179,,0,BEH
+A variable type transformation failed: 9M,\N,YXS,172,YYE,180,,0,BEH
+A variable type transformation failed: 9M,\N,YXT,173,YXS,172,,0,DH3
+A variable type transformation failed: 9M,\N,YYC,178,YEG,49,,0,D38 BEH DH3
+A variable type transformation failed: 9M,\N,YYC,178,YLL,85,,0,BEH D38
+A variable type transformation failed: 9M,\N,YYC,178,YXS,172,,0,DH3
+A variable type transformation failed: 9M,\N,YYD,179,YXS,172,,0,BEH
+A variable type transformation failed: 9M,\N,YYE,180,YDQ,48,,0,DH1
+A variable type transformation failed: 9M,\N,YYE,180,YXJ,168,,0,D38 BEH DH3
+A variable type transformation failed: 9M,\N,YYE,180,YXS,172,,0,BEH
+A variable type transformation failed: 9N,19810,BCV,8227,SQS,\N,,0,CNC
+A variable type transformation failed: 9N,19810,BZE,1957,SQS,\N,,0,CNC
+A variable type transformation failed: 9N,19810,SPR,4279,SQS,\N,,0,CNC
+A variable type transformation failed: 9N,19810,SQS,\N,BCV,8227,,0,CNC
+A variable type transformation failed: 9N,19810,SQS,\N,BZE,1957,,0,CNC
+A variable type transformation failed: 9N,19810,SQS,\N,SPR,4279,,0,CNC
+A variable type transformation failed: 9N,19810,SQS,\N,TZA,6463,,0,CNC
+A variable type transformation failed: 9N,19810,TZA,6463,SQS,\N,,0,CNC
+A variable type transformation failed: 9W,3000,AUH,2179,HYD,\N,,0,73H
+A variable type transformation failed: 9W,3000,BLR,3131,HYD,\N,Y,0,AT7
+A variable type transformation failed: 9W,3000,BOM,2997,HYD,\N,,0,738 73H
+A variable type transformation failed: 9W,3000,DEL,3093,HYD,\N,Y,0,73W 738
+A variable type transformation failed: 9W,3000,HYD,\N,AUH,2179,,0,73H
+A variable type transformation failed: 9W,3000,HYD,\N,BLR,3131,Y,0,AT7
+A variable type transformation failed: 9W,3000,HYD,\N,BOM,2997,,0,738 73H
+A variable type transformation failed: 9W,3000,HYD,\N,DEL,3093,Y,0,738 73W
+A variable type transformation failed: 9W,3000,HYD,\N,KUL,3304,Y,0,738
+A variable type transformation failed: 9W,3000,HYD,\N,MAA,3144,Y,0,738 AT7
+A variable type transformation failed: 9W,3000,HYD,\N,PNQ,3017,Y,0,AT7
+A variable type transformation failed: 9W,3000,HYD,\N,RJA,3148,Y,0,AT7
+A variable type transformation failed: 9W,3000,KUL,3304,HYD,\N,Y,0,738
+A variable type transformation failed: 9W,3000,MAA,3144,HYD,\N,Y,0,738
+A variable type transformation failed: 9W,3000,PNQ,3017,HYD,\N,Y,0,AT7
+A variable type transformation failed: 9W,3000,RJA,3148,HYD,\N,Y,0,AT7
+A variable type transformation failed: A4,4550,ORU,\N,CBB,2759,,0,SWM
+A variable type transformation failed: A4,4550,ORU,\N,SRZ,4247,,0,SWM
+A variable type transformation failed: A4,4550,SRZ,4247,ORU,\N,,0,SWM
+A variable type transformation failed: A5,1203,LYS,1335,MLH,\N,,0,AT5
+A variable type transformation failed: A5,1203,MLH,\N,LYS,1335,,0,AT5
+A variable type transformation failed: A8,1392,EBB,1187,KSE,\N,,0,CNA
+A variable type transformation failed: A8,1392,KSE,\N,EBB,1187,,0,CNA
+A variable type transformation failed: AA,24,HYD,\N,LHR,507,Y,0,767
+A variable type transformation failed: AA,24,LHR,507,HYD,\N,Y,0,767
+A variable type transformation failed: AD,13983,FOR,2559,PHB,\N,,0,AT7
+A variable type transformation failed: AD,13983,PHB,\N,FOR,2559,,0,AT7
+A variable type transformation failed: AD,13983,PHB,\N,THE,2623,,0,AT7
+A variable type transformation failed: AD,13983,THE,2623,PHB,\N,,0,AT7
+A variable type transformation failed: AF,137,MLH,\N,ORY,1386,,0,AT7
+A variable type transformation failed: AF,137,ORY,1386,MLH,\N,,0,AT7
+A variable type transformation failed: AH,794,ALG,210,EBH,\N,,0,ATR
+A variable type transformation failed: AH,794,ALG,210,MZW,\N,,0,ATR
+A variable type transformation failed: AH,794,CFK,\N,MRS,1353,,0,736
+A variable type transformation failed: AH,794,CZL,221,MLH,\N,,0,736
+A variable type transformation failed: AH,794,EBH,\N,ALG,210,,0,ATR
+A variable type transformation failed: AH,794,MLH,\N,CZL,221,,0,736
+A variable type transformation failed: AH,794,MRS,1353,CFK,\N,,0,736
+A variable type transformation failed: AH,794,MZW,\N,ALG,210,,0,ATR
+A variable type transformation failed: AI,218,AMD,2994,HYD,\N,,0,320
+A variable type transformation failed: AI,218,BLR,3131,HYD,\N,,0,319
+A variable type transformation failed: AI,218,BOM,2997,HYD,\N,,0,319 744
+A variable type transformation failed: AI,218,CCU,3043,HYD,\N,,0,319
+A variable type transformation failed: AI,218,DEL,3093,HYD,\N,,0,320 321 319 77W
+A variable type transformation failed: AI,218,HYD,\N,AMD,2994,,0,320
+A variable type transformation failed: AI,218,HYD,\N,BLR,3131,,0,319
+A variable type transformation failed: AI,218,HYD,\N,BOM,2997,,0,319 744
+A variable type transformation failed: AI,218,HYD,\N,CCU,3043,,0,319
+A variable type transformation failed: AI,218,HYD,\N,DEL,3093,,0,321 320 319 77W
+A variable type transformation failed: AI,218,HYD,\N,JED,2072,,0,744
+A variable type transformation failed: AI,218,HYD,\N,MAA,3144,,0,320
+A variable type transformation failed: AI,218,HYD,\N,MCT,2194,,0,319
+A variable type transformation failed: AI,218,HYD,\N,PNQ,3017,,0,319
+A variable type transformation failed: AI,218,HYD,\N,SHJ,2191,,0,321
+A variable type transformation failed: AI,218,HYD,\N,TIR,3151,,0,321
+A variable type transformation failed: AI,218,HYD,\N,VGA,3134,,0,319
+A variable type transformation failed: AI,218,HYD,\N,VTZ,3066,,0,321
+A variable type transformation failed: AI,218,JED,2072,HYD,\N,,0,744
+A variable type transformation failed: AI,218,MAA,3144,HYD,\N,,0,320
+A variable type transformation failed: AI,218,MCT,2194,HYD,\N,,0,319
+A variable type transformation failed: AI,218,PNQ,3017,HYD,\N,,0,319
+A variable type transformation failed: AI,218,SHJ,2191,HYD,\N,,0,321
+A variable type transformation failed: AI,218,TIR,3151,HYD,\N,,0,321
+A variable type transformation failed: AI,218,VGA,3134,HYD,\N,,0,319
+A variable type transformation failed: AI,218,VTZ,3066,HYD,\N,,0,321
+A variable type transformation failed: BA,1355,HYD,\N,LHR,507,,0,767
+A variable type transformation failed: BA,1355,LHR,507,HYD,\N,,0,767
+A variable type transformation failed: BJ,3740,DJE,293,MLH,\N,,0,321
+A variable type transformation failed: CG,1308,POM,5,BUL,\N,,0,DH8
+A variable type transformation failed: CX,1680,HKG,3077,HYD,\N,,0,333
+A variable type transformation failed: CX,1680,HYD,\N,HKG,3077,,0,333
+A variable type transformation failed: CZ,1767,CAN,3370,LLB,\N,,0,319
+A variable type transformation failed: CZ,1767,LLB,\N,CAN,3370,,0,319
+A variable type transformation failed: EB,\N,CUN,1852,MAD,1229,,0,744
+A variable type transformation failed: EB,\N,MAD,1229,BCN,1218,,0,744
+A variable type transformation failed: EB,\N,MAD,1229,CUN,1852,,0,744
+A variable type transformation failed: EB,\N,MAD,1229,PUJ,1760,,0,744
+A variable type transformation failed: EB,\N,PUJ,1760,MAD,1229,,0,744
+A variable type transformation failed: EG,2989,DME,4029,KQT,\N,,0,320
+A variable type transformation failed: EG,2989,KQT,\N,CIT,2914,,0,320
+A variable type transformation failed: EG,2989,KQT,\N,DMB,2911,,0,320
+A variable type transformation failed: EG,2989,KQT,\N,OVB,4078,,0,320
+A variable type transformation failed: EG,2989,KQT,\N,REN,2991,,0,320
+A variable type transformation failed: EG,2989,LED,2948,KQT,\N,,0,320
+A variable type transformation failed: EG,2989,OVB,4078,KQT,\N,,0,320
+A variable type transformation failed: EG,2989,REN,2991,KQT,\N,,0,320
+A variable type transformation failed: EG,2989,SVX,2975,KQT,\N,,0,320
+A variable type transformation failed: EK,2183,DXB,2188,HYD,\N,,0,772 332
+A variable type transformation failed: EK,2183,HYD,\N,DXB,2188,,0,332 772
+A variable type transformation failed: EP,2923,DEF,\N,THR,2131,,0,AT7 100
+A variable type transformation failed: EP,2923,DXB,2188,LFM,\N,,0,AT7
+A variable type transformation failed: EP,2923,GCH,\N,THR,2131,,0,AT7
+A variable type transformation failed: EP,2923,KHY,\N,THR,2131,,0,AT7
+A variable type transformation failed: EP,2923,KWI,2176,LFM,\N,,0,AT7
+A variable type transformation failed: EP,2923,LFM,\N,DXB,2188,,0,AT7
+A variable type transformation failed: EP,2923,LFM,\N,KWI,2176,,0,AT7
+A variable type transformation failed: EP,2923,LFM,\N,SYZ,2157,,0,AT7
+A variable type transformation failed: EP,2923,SYZ,2157,LFM,\N,,0,AT7
+A variable type transformation failed: EP,2923,THR,2131,DEF,\N,,0,AT7 100
+A variable type transformation failed: EP,2923,THR,2131,GCH,\N,,0,AT7
+A variable type transformation failed: EP,2923,THR,2131,KHY,\N,,0,AT7
+A variable type transformation failed: EY,2222,AUH,2179,HYD,\N,,0,737 320
+A variable type transformation failed: EY,2222,HYD,\N,AUH,2179,,0,320 737
+A variable type transformation failed: FZ,14485,DXB,2188,HYD,\N,,0,73H
+A variable type transformation failed: FZ,14485,HYD,\N,DXB,2188,,0,73H
+A variable type transformation failed: G9,329,HYD,\N,SHJ,2191,,0,320
+A variable type transformation failed: G9,329,SHJ,2191,HYD,\N,,0,320
+A variable type transformation failed: GL,921,AGM,7642,IOQ,\N,,0,BH2
+A variable type transformation failed: GL,921,AGM,7642,KUZ,\N,,0,BH2
+A variable type transformation failed: GL,921,AGM,7642,SGG,\N,,0,BH2
+A variable type transformation failed: GL,921,AGM,7642,TQI,\N,,0,BH2
+A variable type transformation failed: GL,921,AOQ,\N,JUV,5448,,0,BH2
+A variable type transformation failed: GL,921,IKE,\N,SAE,\N,,0,BH2
+A variable type transformation failed: GL,921,IKE,\N,UMD,8628,,0,BH2
+A variable type transformation failed: GL,921,IOQ,\N,AGM,7642,,0,BH2
+A variable type transformation failed: GL,921,IOT,\N,JUU,\N,,0,BH2
+A variable type transformation failed: GL,921,IOT,\N,UMD,8628,,0,BH2
+A variable type transformation failed: GL,921,IUI,\N,JUV,5448,,0,BH2
+A variable type transformation failed: GL,921,IUI,\N,TQA,\N,,0,BH2
+A variable type transformation failed: GL,921,JJU,5442,QFG,\N,,0,BH2
+A variable type transformation failed: GL,921,JJU,5442,QJH,\N,,0,BH2
+A variable type transformation failed: GL,921,JJU,5442,QUW,\N,,0,BH2
+A variable type transformation failed: GL,921,JNN,5444,QUW,\N,,0,BH2
+A variable type transformation failed: GL,921,JNN,5444,XEQ,\N,,0,BH2
+A variable type transformation failed: GL,921,JNS,5445,QFX,\N,,0,BH2
+A variable type transformation failed: GL,921,JUK,\N,UMD,8628,,0,BH2
+A variable type transformation failed: GL,921,JUU,\N,IOT,\N,,0,BH2
+A variable type transformation failed: GL,921,JUU,\N,UMD,8628,,0,BH2
+A variable type transformation failed: GL,921,JUV,5448,AOQ,\N,,0,BH2
+A variable type transformation failed: GL,921,JUV,5448,IUI,\N,,0,BH2
+A variable type transformation failed: GL,921,JUV,5448,KGQ,\N,,0,BH2
+A variable type transformation failed: GL,921,JUV,5448,KHQ,\N,,0,BH2
+A variable type transformation failed: GL,921,JUV,5448,NSQ,\N,,0,BH2
+A variable type transformation failed: GL,921,JUV,5448,TQA,\N,,0,BH2
+A variable type transformation failed: GL,921,JUV,5448,UPK,\N,,0,BH2
+A variable type transformation failed: GL,921,KGQ,\N,JUV,5448,,0,BH2
+A variable type transformation failed: GL,921,KGQ,\N,UPK,\N,,0,BH2
+A variable type transformation failed: GL,921,KHQ,\N,JUV,5448,,0,BH2
+A variable type transformation failed: GL,921,KHQ,\N,NSQ,\N,,0,BH2
+A variable type transformation failed: GL,921,KUZ,\N,AGM,7642,,0,BH2
+A variable type transformation failed: GL,921,NAQ,5446,SRK,\N,,0,BH2
+A variable type transformation failed: GL,921,NIQ,\N,UMD,8628,,0,BH2
+A variable type transformation failed: GL,921,NSQ,\N,JUV,5448,,0,BH2
+A variable type transformation failed: GL,921,NSQ,\N,KHQ,\N,,0,BH2
+A variable type transformation failed: GL,921,QFG,\N,QOQ,\N,,0,BH2
+A variable type transformation failed: GL,921,QFN,\N,JNN,5444,,0,BH2
+A variable type transformation failed: GL,921,QJH,\N,JJU,5442,,0,BH2
+A variable type transformation failed: GL,921,QOQ,\N,JJU,5442,,0,BH2
+A variable type transformation failed: GL,921,QUV,\N,QFN,\N,,0,BH2
+A variable type transformation failed: GL,921,QUW,\N,JJU,5442,,0,BH2
+A variable type transformation failed: GL,921,QUW,\N,JNN,5444,,0,BH2
+A variable type transformation failed: GL,921,SAE,\N,IKE,\N,,0,BH2
+A variable type transformation failed: GL,921,SAE,\N,UMD,8628,,0,BH2
+A variable type transformation failed: GL,921,SGG,\N,AGM,7642,,0,BH2
+A variable type transformation failed: GL,921,SRK,\N,NAQ,5446,,0,BH2
+A variable type transformation failed: GL,921,SVR,\N,THU,10,,0,BH2
+A variable type transformation failed: GL,921,THU,10,SVR,\N,,0,BH2
+A variable type transformation failed: GL,921,TQA,\N,IUI,\N,,0,BH2
+A variable type transformation failed: GL,921,TQA,\N,JUV,5448,,0,BH2
+A variable type transformation failed: GL,921,TQI,\N,AGM,7642,,0,BH2
+A variable type transformation failed: GL,921,UMD,8628,IKE,\N,,0,BH2
+A variable type transformation failed: GL,921,UMD,8628,IOT,\N,,0,BH2
+A variable type transformation failed: GL,921,UMD,8628,JUK,\N,,0,BH2
+A variable type transformation failed: GL,921,UMD,8628,JUU,\N,,0,BH2
+A variable type transformation failed: GL,921,UMD,8628,NIQ,\N,,0,BH2
+A variable type transformation failed: GL,921,UMD,8628,SAE,\N,,0,BH2
+A variable type transformation failed: GL,921,UPK,\N,JUV,5448,,0,BH2
+A variable type transformation failed: GL,921,UPK,\N,KGQ,\N,,0,BH2
+A variable type transformation failed: GL,921,XEQ,\N,QUV,\N,,0,BH2
+A variable type transformation failed: GV,386,PIP,7158,UGB,\N,,0,BEC
+A variable type transformation failed: GV,386,UGB,\N,PTH,6766,,0,BEC
+A variable type transformation failed: HS,\N,BLE,739,GOT,687,,0,J32
+A variable type transformation failed: HS,\N,BLE,739,ORB,731,,0,J32
+A variable type transformation failed: HS,\N,GEV,715,KRN,724,,0,J32
+A variable type transformation failed: HS,\N,GEV,715,LLA,734,,0,J32
+A variable type transformation failed: HS,\N,GOT,687,BLE,739,,0,J32
+A variable type transformation failed: HS,\N,GOT,687,SDL,721,,0,F50
+A variable type transformation failed: HS,\N,KRN,724,GEV,715,,0,J32
+A variable type transformation failed: HS,\N,LLA,734,GEV,715,,0,J32
+A variable type transformation failed: HS,\N,LLA,734,SDL,721,,0,J32
+A variable type transformation failed: HS,\N,LLA,734,UME,728,,0,J32
+A variable type transformation failed: HS,\N,MMX,708,ORB,731,,0,J32
+A variable type transformation failed: HS,\N,ORB,731,BLE,739,,0,J32
+A variable type transformation failed: HS,\N,ORB,731,MMX,708,,0,J32
+A variable type transformation failed: HS,\N,OSD,5593,UME,728,,0,J32
+A variable type transformation failed: HS,\N,SDL,721,GOT,687,,0,F50
+A variable type transformation failed: HS,\N,SDL,721,LLA,734,,0,J32
+A variable type transformation failed: HS,\N,UME,728,LLA,734,,0,J32
+A variable type transformation failed: HS,\N,UME,728,OSD,5593,,0,J32
+A variable type transformation failed: HZ,4808,EKS,\N,UUS,2933,,0,DH8
+A variable type transformation failed: HZ,4808,UUS,2933,EKS,\N,,0,DH8
+A variable type transformation failed: IE,4797,HIR,4074,JJA,\N,,0,BNI
+A variable type transformation failed: IE,4797,JJA,\N,HIR,4074,,0,BNI
+A variable type transformation failed: IL,10121,DOB,\N,LUV,6212,,0,AT4
+A variable type transformation failed: IL,10121,LUV,6212,DOB,\N,,0,AT4
+A variable type transformation failed: K3,20963,EDA,\N,KTN,3808,,0,DHP
+A variable type transformation failed: K3,20963,KCC,7237,EDA,\N,,0,DHP
+A variable type transformation failed: K3,20963,NKI,\N,EDA,\N,,0,DHP
+A variable type transformation failed: K3,20963,WWP,7152,NKI,\N,,0,DHP
+A variable type transformation failed: LC,5354,BZV,883,OLL,\N,,0,737
+A variable type transformation failed: LC,5354,OLL,\N,BZV,883,,0,737
+A variable type transformation failed: M6,246,BEL,2526,MEU,\N,,0,EM2
+A variable type transformation failed: M6,246,MEU,\N,BEL,2526,,0,EM2
+A variable type transformation failed: M6,246,MEU,\N,ORX,8259,,0,EM2
+A variable type transformation failed: M6,246,MEU,\N,STM,4092,,0,EM2
+A variable type transformation failed: M6,246,STM,4092,MEU,\N,,0,EM2
+A variable type transformation failed: M6,246,STM,4092,MTE,\N,,0,EMB
+A variable type transformation failed: MH,3378,HYD,\N,KUL,3304,,0,738
+A variable type transformation failed: MH,3378,KUL,3304,HYD,\N,,0,738
+A variable type transformation failed: MI,4750,HYD,\N,SIN,3316,,0,320 738
+A variable type transformation failed: MI,4750,SIN,3316,HYD,\N,,0,738 320
+A variable type transformation failed: MR,13335,ULN,3380,ULZ,\N,,0,F50
+A variable type transformation failed: MR,13335,ULZ,\N,ULN,3380,,0,F50
+A variable type transformation failed: MY,3498,CZH,7029,ORZ,\N,,0,CNC
+A variable type transformation failed: MY,3498,ORZ,\N,CZH,7029,,0,CNC
+A variable type transformation failed: MY,3498,ORZ,\N,SPR,4279,,0,CNC
+A variable type transformation failed: MY,3498,SPR,4279,ORZ,\N,,0,CNC
+A variable type transformation failed: O4,\N,ACC,248,KMS,5556,,0,ATR
+A variable type transformation failed: O4,\N,ACC,248,NYI,251,,0,ATR
+A variable type transformation failed: O4,\N,ACC,248,TKD,252,,0,ATR
+A variable type transformation failed: O4,\N,ACC,248,TML,249,,0,ATR
+A variable type transformation failed: O4,\N,KMS,5556,ACC,248,,0,ATR
+A variable type transformation failed: O4,\N,NYI,251,ACC,248,,0,ATR
+A variable type transformation failed: O4,\N,TKD,252,ACC,248,,0,ATR
+A variable type transformation failed: O4,\N,TML,249,ACC,248,,0,ATR
+A variable type transformation failed: P0,4066,MNS,\N,LUN,907,,0,CN2
+A variable type transformation failed: P0,4066,NLA,910,MNS,\N,,0,CN2
+A variable type transformation failed: P1,\N,CLT,3876,LUK,3681,Y,0,FRJ
+A variable type transformation failed: P1,\N,CVG,3488,MMU,7657,,0,FRJ
+A variable type transformation failed: P1,\N,LUK,3681,CLT,3876,Y,0,FRJ
+A variable type transformation failed: P1,\N,LUK,3681,MDW,3747,Y,0,FRJ
+A variable type transformation failed: P1,\N,LUK,3681,MMU,7657,Y,0,FRJ
+A variable type transformation failed: P1,\N,MBL,7054,MDW,3747,Y,0,J32
+A variable type transformation failed: P1,\N,MDW,3747,LUK,3681,Y,0,FRJ
+A variable type transformation failed: P1,\N,MDW,3747,MBL,7054,Y,0,J32
+A variable type transformation failed: P1,\N,MMU,7657,CVG,3488,,0,FRJ
+A variable type transformation failed: P1,\N,MMU,7657,LUK,3681,Y,0,FRJ
+A variable type transformation failed: P2,\N,JRO,1180,WIL,1147,,0,DHT
+A variable type transformation failed: P2,\N,LAU,1144,MYD,5694,,0,DH8
+A variable type transformation failed: P2,\N,MRE,7424,WIL,1147,,0,DH7 DHT
+A variable type transformation failed: P2,\N,MYD,5694,WIL,1147,,0,DH8
+A variable type transformation failed: P2,\N,NYK,5695,MRE,7424,,0,CNA
+A variable type transformation failed: P2,\N,NYK,5695,UAS,6773,,0,CNA
+A variable type transformation failed: P2,\N,UAS,6773,NYK,5695,,0,CNA
+A variable type transformation failed: P2,\N,UAS,6773,WIL,1147,,0,CNA
+A variable type transformation failed: P2,\N,UKA,7976,WIL,1147,,0,DH8
+A variable type transformation failed: P2,\N,WIL,1147,JRO,1180,,0,DHT
+A variable type transformation failed: P2,\N,WIL,1147,LAU,1144,,0,DH8
+A variable type transformation failed: P2,\N,WIL,1147,MRE,7424,,0,DH7 DHT
+A variable type transformation failed: P2,\N,WIL,1147,NYK,5695,,0,CNA
+A variable type transformation failed: P2,\N,WIL,1147,UAS,6773,,0,CNA
+A variable type transformation failed: P2,\N,WIL,1147,UKA,7976,,0,DH8
+A variable type transformation failed: P6,\N,YBC,27,YQB,111,,0,J32
+A variable type transformation failed: P6,\N,YBC,27,YWK,161,,0,J32
+A variable type transformation failed: P6,\N,YBG,28,YHU,71,,0,J32
+A variable type transformation failed: P6,\N,YBG,28,YQB,111,,0,AT4
+A variable type transformation failed: P6,\N,YBG,28,YZV,202,,0,J32
+A variable type transformation failed: P6,\N,YGR,65,YQB,111,,0,PL2 J32
+A variable type transformation failed: P6,\N,YGR,65,YVB,6775,,0,J32 PL2
+A variable type transformation failed: P6,\N,YGV,7255,YZV,202,,0,J32
+A variable type transformation failed: P6,\N,YHU,71,YBG,28,,0,J32
+A variable type transformation failed: P6,\N,YHU,71,YQB,111,,0,J32 PL2
+A variable type transformation failed: P6,\N,YHU,71,YVO,153,,0,J32
+A variable type transformation failed: P6,\N,YHU,71,YZV,202,,0,J32
+A variable type transformation failed: P6,\N,YQB,111,YBC,27,,0,J32
+A variable type transformation failed: P6,\N,YQB,111,YGR,65,,0,J32 PL2
+A variable type transformation failed: P6,\N,YQB,111,YHU,71,,0,J32 PL2
+A variable type transformation failed: P6,\N,YQB,111,YVB,6775,,0,PL2
+A variable type transformation failed: P6,\N,YQB,111,YWK,161,,0,AT4
+A variable type transformation failed: P6,\N,YQB,111,YYY,192,,0,AT4 J32
+A variable type transformation failed: P6,\N,YQB,111,YZV,202,,0,J32
+A variable type transformation failed: P6,\N,YUY,149,YVO,153,,0,J32
+A variable type transformation failed: P6,\N,YVB,6775,YGR,65,,0,PL2 J32
+A variable type transformation failed: P6,\N,YVB,6775,YYY,192,,0,J32 PL2
+A variable type transformation failed: P6,\N,YVB,6775,ZBF,5538,,0,J32
+A variable type transformation failed: P6,\N,YVO,153,YHU,71,,0,J32
+A variable type transformation failed: P6,\N,YVO,153,YUY,149,,0,J32
+A variable type transformation failed: P6,\N,YWK,161,YBC,27,,0,J32
+A variable type transformation failed: P6,\N,YWK,161,YBG,28,,0,AT4
+A variable type transformation failed: P6,\N,YWK,161,YVB,6775,,0,J32
+A variable type transformation failed: P6,\N,YWK,161,YZV,202,,0,J32 AT4
+A variable type transformation failed: P6,\N,YYY,192,YQB,111,,0,J32 AT4 PL2
+A variable type transformation failed: P6,\N,YYY,192,YVB,6775,,0,J32
+A variable type transformation failed: P6,\N,YYY,192,YZV,202,,0,AT4
+A variable type transformation failed: P6,\N,YZV,202,YBG,28,,0,J32
+A variable type transformation failed: P6,\N,YZV,202,YGV,7255,,0,J32
+A variable type transformation failed: P6,\N,YZV,202,YHU,71,,0,J32
+A variable type transformation failed: P6,\N,YZV,202,YQB,111,,0,J32
+A variable type transformation failed: P6,\N,YZV,202,YWK,161,,0,AT4 J32
+A variable type transformation failed: P6,\N,YZV,202,YYY,192,,0,AT4
+A variable type transformation failed: PB,\N,YAY,24,YBX,5485,,0,SFB
+A variable type transformation failed: PB,\N,YAY,24,YYR,188,,0,DH1
+A variable type transformation failed: PB,\N,YAY,24,YYT,189,,0,SFB DH1
+A variable type transformation failed: PB,\N,YBX,5485,YAY,24,,0,SFB
+A variable type transformation failed: PB,\N,YBX,5485,YYR,188,,0,SFB
+A variable type transformation failed: PB,\N,YCL,36,YHZ,73,,0,SFB
+A variable type transformation failed: PB,\N,YCL,36,YWK,161,,0,SFB
+A variable type transformation failed: PB,\N,YDF,45,YYR,188,,0,DH1 SFB
+A variable type transformation failed: PB,\N,YDF,45,YYT,189,,0,SFB DH1
+A variable type transformation failed: PB,\N,YDP,5488,YNP,\N,,0,DHT
+A variable type transformation failed: PB,\N,YDP,5488,YYR,188,,0,DHT
+A variable type transformation failed: PB,\N,YHO,5502,YMN,5492,,0,DHT
+A variable type transformation failed: PB,\N,YHO,5502,YNP,\N,,0,DHT
+A variable type transformation failed: PB,\N,YHZ,73,YCL,36,,0,SFB
+A variable type transformation failed: PB,\N,YJT,77,YDF,45,,0,SFB
+A variable type transformation failed: PB,\N,YKL,80,YWK,161,,0,SFB
+A variable type transformation failed: PB,\N,YMN,5492,YHO,5502,,0,DHT
+A variable type transformation failed: PB,\N,YMN,5492,YSO,7252,,0,DHT
+A variable type transformation failed: PB,\N,YNP,\N,YDP,5488,,0,DHT
+A variable type transformation failed: PB,\N,YNP,\N,YHO,5502,,0,DHT
+A variable type transformation failed: PB,\N,YQB,111,YUL,146,,0,DH1
+A variable type transformation failed: PB,\N,YQB,111,YZV,202,,0,DH1
+A variable type transformation failed: PB,\N,YSO,7252,YMN,5492,,0,DHT
+A variable type transformation failed: PB,\N,YSO,7252,YYR,188,,0,DHT
+A variable type transformation failed: PB,\N,YUL,146,YQB,111,,0,DH1
+A variable type transformation failed: PB,\N,YUL,146,YWK,161,,0,DH1
+A variable type transformation failed: PB,\N,YUL,146,YZV,202,,0,DH1
+A variable type transformation failed: PB,\N,YWK,161,YCL,36,,0,SFB
+A variable type transformation failed: PB,\N,YWK,161,YKL,80,,0,SFB
+A variable type transformation failed: PB,\N,YWK,161,YUL,146,,0,DH1
+A variable type transformation failed: PB,\N,YWK,161,YYR,188,,0,DH1
+A variable type transformation failed: PB,\N,YWK,161,YZV,202,,0,DH1
+A variable type transformation failed: PB,\N,YWK,161,ZUM,5550,,0,DH1
+A variable type transformation failed: PB,\N,YYR,188,YAY,24,,0,DH1
+A variable type transformation failed: PB,\N,YYR,188,YBX,5485,,0,SFB
+A variable type transformation failed: PB,\N,YYR,188,YDF,45,,0,DH1
+A variable type transformation failed: PB,\N,YYR,188,YDP,5488,,0,DHT
+A variable type transformation failed: PB,\N,YYR,188,YSO,7252,,0,DHT
+A variable type transformation failed: PB,\N,YYR,188,YWK,161,,0,DH1
+A variable type transformation failed: PB,\N,YYR,188,YYT,189,,0,DH1 SFB
+A variable type transformation failed: PB,\N,YYR,188,ZUM,5550,,0,DH1
+A variable type transformation failed: PB,\N,YYT,189,YAY,24,,0,SFB DH1
+A variable type transformation failed: PB,\N,YYT,189,YDF,45,,0,DH1 SFB
+A variable type transformation failed: PB,\N,YYT,189,YJT,77,,0,SFB
+A variable type transformation failed: PB,\N,YYT,189,YYR,188,,0,DH1
+A variable type transformation failed: PB,\N,YZV,202,YQB,111,,0,DH1
+A variable type transformation failed: PB,\N,YZV,202,YUL,146,,0,DH1
+A variable type transformation failed: PB,\N,YZV,202,YWK,161,,0,DH1
+A variable type transformation failed: PB,\N,ZUM,5550,YWK,161,,0,DH1
+A variable type transformation failed: PB,\N,ZUM,5550,YYR,188,,0,DH1
+A variable type transformation failed: PI,3969,MQJ,\N,YKS,2923,,0,AN4
+A variable type transformation failed: PI,3969,NER,\N,YKS,2923,,0,AN4
+A variable type transformation failed: PI,3969,SUK,\N,YKS,2923,,0,AN4
+A variable type transformation failed: PI,3969,YKS,2923,MQJ,\N,,0,AN4
+A variable type transformation failed: PI,3969,YKS,2923,NER,\N,,0,AN4
+A variable type transformation failed: PI,3969,YKS,2923,SUK,\N,,0,AN4
+A variable type transformation failed: PL,179,NAS,1953,RCY,\N,,0,ATP
+A variable type transformation failed: PL,179,NAS,1953,TBI,\N,,0,ATP
+A variable type transformation failed: PL,179,RCY,\N,NAS,1953,,0,ATP
+A variable type transformation failed: PL,179,TBI,\N,NAS,1953,,0,ATP
+A variable type transformation failed: PX,328,BUL,\N,POM,5,,0,DH8
+A variable type transformation failed: Q5,10,CKX,\N,TKJ,7235,,0,CNA
+A variable type transformation failed: Q5,10,TKJ,7235,CKX,\N,,0,CNA
+A variable type transformation failed: Q7,20686,ATC,5857,TBI,\N,,0,SF3
+A variable type transformation failed: Q7,20686,NAS,1953,TBI,\N,,0,SF3
+A variable type transformation failed: Q7,20686,TBI,\N,ATC,5857,,0,SF3
+A variable type transformation failed: Q7,20686,TBI,\N,NAS,1953,,0,SF3
+A variable type transformation failed: Q9,11838,YIF,6789,ZGS,\N,,0,BEH
+A variable type transformation failed: Q9,11838,YNA,94,ZGS,\N,,0,BEH
+A variable type transformation failed: Q9,11838,ZGS,\N,YIF,6789,,0,BEH
+A variable type transformation failed: Q9,11838,ZGS,\N,YNA,94,,0,BEH
+A variable type transformation failed: QB,2541,SXI,\N,SYZ,2157,,0,F50
+A variable type transformation failed: QB,2541,SYZ,2157,SXI,\N,,0,F50
+A variable type transformation failed: QF,4089,BNE,3320,ZBL,\N,Y,0,DH8 DH3
+A variable type transformation failed: QF,4089,ZBL,\N,BNE,3320,Y,0,DH8 DH3
+A variable type transformation failed: QR,4091,DOH,11051,HYD,\N,,0,321
+A variable type transformation failed: QR,4091,HYD,\N,DOH,11051,,0,321
+A variable type transformation failed: QV,3233,HOE,\N,VTE,3120,,0,AT7
+A variable type transformation failed: QV,3233,VTE,3120,HOE,\N,,0,AT7
+A variable type transformation failed: R3,1287,IKT,2937,NER,\N,,0,DH4
+A variable type transformation failed: R3,1287,KHV,2927,NER,\N,,0,DH4
+A variable type transformation failed: R3,1287,KHV,2927,NGK,\N,,0,DH4
+A variable type transformation failed: R3,1287,MQJ,\N,YKS,2923,,0,A40
+A variable type transformation failed: R3,1287,NER,\N,IKT,2937,,0,DH4
+A variable type transformation failed: R3,1287,NER,\N,KHV,2927,,0,DH4
+A variable type transformation failed: R3,1287,NER,\N,VKO,2988,,0,73W
+A variable type transformation failed: R3,1287,NER,\N,YKS,2923,,0,A40
+A variable type transformation failed: R3,1287,NGK,\N,KHV,2927,,0,DH4
+A variable type transformation failed: R3,1287,VKO,2988,NER,\N,,0,73W
+A variable type transformation failed: R3,1287,YKS,2923,MQJ,\N,,0,A40
+A variable type transformation failed: R3,1287,YKS,2923,NER,\N,,0,A40
+A variable type transformation failed: RJ,4259,AMM,2170,OSM,\N,,0,E75 E95
+A variable type transformation failed: RJ,4259,OSM,\N,AMM,2170,,0,E75 E95
+A variable type transformation failed: RL,11857,AMM,2170,OSM,\N,,0,320
+A variable type transformation failed: RL,11857,OSM,\N,AMM,2170,,0,320
+A variable type transformation failed: S2,241,BLR,3131,HYD,\N,Y,0,AT7
+A variable type transformation failed: S2,241,BOM,2997,HYD,\N,Y,0,738 73G 73H
+A variable type transformation failed: S2,241,DEL,3093,HYD,\N,Y,0,73W 738
+A variable type transformation failed: S2,241,HYD,\N,BLR,3131,Y,0,AT7
+A variable type transformation failed: S2,241,HYD,\N,BOM,2997,Y,0,738 73G 73H
+A variable type transformation failed: S2,241,HYD,\N,DEL,3093,Y,0,738 73W
+A variable type transformation failed: S2,241,HYD,\N,MAA,3144,Y,0,738 AT7
+A variable type transformation failed: S2,241,HYD,\N,PNQ,3017,Y,0,AT7
+A variable type transformation failed: S2,241,HYD,\N,RJA,3148,Y,0,AT7
+A variable type transformation failed: S2,241,MAA,3144,HYD,\N,Y,0,738
+A variable type transformation failed: S2,241,PNQ,3017,HYD,\N,Y,0,AT7
+A variable type transformation failed: S2,241,RJA,3148,HYD,\N,Y,0,AT7
+A variable type transformation failed: S5,4822,IMP,2572,BSS,\N,,0,CNC
+A variable type transformation failed: SG,4375,AMD,2994,HYD,\N,,0,737
+A variable type transformation failed: SG,4375,BLR,3131,HYD,\N,,0,737 DH8
+A variable type transformation failed: SG,4375,BOM,2997,HYD,\N,,0,737
+A variable type transformation failed: SG,4375,CCU,3043,HYD,\N,,0,737
+A variable type transformation failed: SG,4375,CJB,3135,HYD,\N,,0,DH8
+A variable type transformation failed: SG,4375,COK,3136,HYD,\N,,0,737 DH8
+A variable type transformation failed: SG,4375,DEL,3093,HYD,\N,,0,737
+A variable type transformation failed: SG,4375,GOI,3007,HYD,\N,,0,DH8 737
+A variable type transformation failed: SG,4375,HYD,\N,AMD,2994,,0,737
+A variable type transformation failed: SG,4375,HYD,\N,BLR,3131,,0,DH8 737
+A variable type transformation failed: SG,4375,HYD,\N,BOM,2997,,0,737
+A variable type transformation failed: SG,4375,HYD,\N,CCU,3043,,0,737
+A variable type transformation failed: SG,4375,HYD,\N,CJB,3135,,0,DH8
+A variable type transformation failed: SG,4375,HYD,\N,COK,3136,,0,737 DH8
+A variable type transformation failed: SG,4375,HYD,\N,DEL,3093,,0,737
+A variable type transformation failed: SG,4375,HYD,\N,GOI,3007,,0,DH8 737
+A variable type transformation failed: SG,4375,HYD,\N,IDR,3008,,0,DH8
+A variable type transformation failed: SG,4375,HYD,\N,IXM,3142,,0,DH8
+A variable type transformation failed: SG,4375,HYD,\N,MAA,3144,,0,DH8 737
+A variable type transformation failed: SG,4375,HYD,\N,PNQ,3017,,0,DH8
+A variable type transformation failed: SG,4375,HYD,\N,RJA,3148,,0,DH8
+A variable type transformation failed: SG,4375,HYD,\N,TIR,3151,,0,DH8
+A variable type transformation failed: SG,4375,HYD,\N,VGA,3134,,0,DH8
+A variable type transformation failed: SG,4375,HYD,\N,VTZ,3066,,0,737
+A variable type transformation failed: SG,4375,IDR,3008,HYD,\N,,0,DH8
+A variable type transformation failed: SG,4375,IXM,3142,HYD,\N,,0,DH8
+A variable type transformation failed: SG,4375,MAA,3144,HYD,\N,,0,737 DH8
+A variable type transformation failed: SG,4375,PNQ,3017,HYD,\N,,0,DH8
+A variable type transformation failed: SG,4375,RJA,3148,HYD,\N,,0,DH8
+A variable type transformation failed: SG,4375,TIR,3151,HYD,\N,,0,DH8
+A variable type transformation failed: SG,4375,VGA,3134,HYD,\N,,0,DH8
+A variable type transformation failed: SG,4375,VTZ,3066,HYD,\N,,0,737
+A variable type transformation failed: SQ,4435,HYD,\N,SIN,3316,Y,0,320 738
+A variable type transformation failed: SQ,4435,SIN,3316,HYD,\N,Y,0,738 320
+A variable type transformation failed: SV,4533,DMM,2064,HYD,\N,,0,772
+A variable type transformation failed: SV,4533,HYD,\N,DMM,2064,,0,772
+A variable type transformation failed: SV,4533,HYD,\N,JED,2072,,0,772
+A variable type transformation failed: SV,4533,HYD,\N,RUH,2082,,0,772
+A variable type transformation failed: SV,4533,JED,2072,WAE,\N,,0,E70
+A variable type transformation failed: SV,4533,RUH,2082,HYD,\N,,0,772
+A variable type transformation failed: SV,4533,RUH,2082,WAE,\N,,0,E70
+A variable type transformation failed: SV,4533,WAE,\N,JED,2072,,0,E70
+A variable type transformation failed: SV,4533,WAE,\N,RUH,2082,,0,E70
+A variable type transformation failed: T7,4965,MLH,\N,MRS,1353,,0,BEH
+A variable type transformation failed: T7,4965,MRS,1353,MLH,\N,,0,BEH
+A variable type transformation failed: TG,4940,BKK,3885,HYD,\N,,0,320
+A variable type transformation failed: TG,4940,HYD,\N,BKK,3885,,0,320
+A variable type transformation failed: TK,4951,ESB,1682,KCO,\N,Y,0,73W
+A variable type transformation failed: TK,4951,IST,1701,NOP,\N,,0,319 320
+A variable type transformation failed: TK,4951,IST,1701,OSM,\N,,0,73W
+A variable type transformation failed: TK,4951,KCO,\N,ESB,1682,Y,0,73W
+A variable type transformation failed: TK,4951,NOP,\N,IST,1701,,0,319 320
+A variable type transformation failed: TK,4951,OSM,\N,IST,1701,,0,73W
+A variable type transformation failed: TR,4936,HYD,\N,SIN,3316,,0,320
+A variable type transformation failed: TR,4936,SIN,3316,HYD,\N,,0,320
+A variable type transformation failed: UL,4349,BTC,\N,GIU,9229,,0,CNC
+A variable type transformation failed: UL,4349,GIU,9229,BTC,\N,,0,CNC
+A variable type transformation failed: UR,15814,SCW,2989,UTS,\N,,0,AN4
+A variable type transformation failed: UR,15814,UTS,\N,SCW,2989,,0,AN4
+A variable type transformation failed: V0,1886,CBS,\N,CCS,2851,,0,ATR
+A variable type transformation failed: V0,1886,CCS,2851,CBS,\N,,0,ATR
+A variable type transformation failed: VT,692,KHZ,\N,KXU,\N,,0,ATR
+A variable type transformation failed: VT,692,KXU,\N,PPT,4075,,0,ATR
+A variable type transformation failed: VT,692,PPT,4075,RKA,\N,,0,ATR
+A variable type transformation failed: VT,692,RKA,\N,KHZ,\N,,0,ATR
+A variable type transformation failed: W3,20976,ABB,\N,ABV,260,,0,73G
+A variable type transformation failed: W3,20976,ABB,\N,LOS,273,,0,73G
+A variable type transformation failed: W3,20976,ABV,260,ABB,\N,,0,73G
+A variable type transformation failed: W3,20976,ABV,260,GMO,\N,,0,CR9 DH4
+A variable type transformation failed: W3,20976,GMO,\N,ABV,260,,0,CR9 DH4
+A variable type transformation failed: W3,20976,LOS,273,ABB,\N,,0,73G
+A variable type transformation failed: W4,16660,JAU,\N,LIM,2789,,0,DH8
+A variable type transformation failed: W4,16660,LIM,2789,JAU,\N,,0,DH8
+A variable type transformation failed: W6,5461,BEG,1739,MLH,\N,,0,320
+A variable type transformation failed: W6,5461,GSE,691,TZL,\N,,0,320
+A variable type transformation failed: W6,5461,MLH,\N,BEG,1739,,0,320
+A variable type transformation failed: W6,5461,MLH,\N,SKP,1737,,0,320
+A variable type transformation failed: W6,5461,MLH,\N,TZL,\N,,0,320
+A variable type transformation failed: W6,5461,MMX,708,TZL,\N,,0,320
+A variable type transformation failed: W6,5461,SKP,1737,MLH,\N,,0,320
+A variable type transformation failed: W6,5461,TZL,\N,GSE,691,,0,320
+A variable type transformation failed: W6,5461,TZL,\N,MLH,\N,,0,320
+A variable type transformation failed: W6,5461,TZL,\N,MMX,708,,0,320
+A variable type transformation failed: WJ,5399,YDP,5488,YNP,\N,,0,DHT
+A variable type transformation failed: WJ,5399,YHO,5502,YNP,\N,,0,DHT
+A variable type transformation failed: WJ,5399,YHR,5503,ZGS,\N,,0,DHT BE1
+A variable type transformation failed: WJ,5399,YNA,94,ZGS,\N,,0,DHT
+A variable type transformation failed: WJ,5399,YNP,\N,YDP,5488,,0,DHT
+A variable type transformation failed: WJ,5399,YNP,\N,YHO,5502,,0,DHT
+A variable type transformation failed: WJ,5399,YZV,202,ZGS,\N,,0,BE1
+A variable type transformation failed: WJ,5399,ZGS,\N,YHR,5503,,0,DHT BE1
+A variable type transformation failed: WJ,5399,ZGS,\N,YNA,94,,0,DHT
+A variable type transformation failed: WJ,5399,ZGS,\N,YZV,202,,0,BE1
+A variable type transformation failed: WJ,5399,ZGS,\N,ZKG,8217,,0,DHT
+A variable type transformation failed: WJ,5399,ZKG,8217,ZGS,\N,,0,DHT
+A variable type transformation failed: WT,\N,KEW,8355,YRL,5527,,0,BEH
+A variable type transformation failed: WT,\N,KIF,5469,WNN,5466,,0,BEH
+A variable type transformation failed: WT,\N,KIF,5469,YXL,169,,0,BEH
+A variable type transformation failed: WT,\N,MSA,5544,XBE,5468,,0,BEH
+A variable type transformation failed: WT,\N,MSA,5544,YXL,169,,0,BEH
+A variable type transformation failed: WT,\N,MSA,5544,ZPB,5546,,0,BEH
+A variable type transformation failed: WT,\N,MSA,5544,ZRJ,5547,,0,BEH
+A variable type transformation failed: WT,\N,SUR,5464,YXL,169,,0,BEH
+A variable type transformation failed: WT,\N,WNN,5466,KIF,5469,,0,BEH
+A variable type transformation failed: WT,\N,WNN,5466,SUR,5464,,0,BEH
+A variable type transformation failed: WT,\N,WNN,5466,YXL,169,,0,BEH
+A variable type transformation failed: WT,\N,XBE,5468,MSA,5544,,0,BEH
+A variable type transformation failed: WT,\N,XBE,5468,YAX,5465,,0,BEH
+A variable type transformation failed: WT,\N,XBE,5468,YTL,5531,,0,BEH
+A variable type transformation failed: WT,\N,XBE,5468,YXL,169,,0,BEH
+A variable type transformation failed: WT,\N,XKS,5480,YTL,5531,,0,BEH
+A variable type transformation failed: WT,\N,XKS,5480,YXL,169,,0,BEH
+A variable type transformation failed: WT,\N,YAC,5478,YXL,169,,0,BEH
+A variable type transformation failed: WT,\N,YAC,5478,ZRJ,5547,,0,BEH
+A variable type transformation failed: WT,\N,YAX,5465,XBE,5468,,0,BEH
+A variable type transformation failed: WT,\N,YAX,5465,YTL,5531,,0,BEH
+A variable type transformation failed: WT,\N,YER,5489,YAX,5465,,0,BEH
+A variable type transformation failed: WT,\N,YER,5489,YTL,5531,,0,BEH
+A variable type transformation failed: WT,\N,YER,5489,YXL,169,,0,BEH
+A variable type transformation failed: WT,\N,YFH,5491,YLH,5510,,0,BEH
+A variable type transformation failed: WT,\N,YFH,5491,YOG,5470,,0,PL2
+A variable type transformation failed: WT,\N,YFH,5491,YQT,121,,0,PL2 BEH
+A variable type transformation failed: WT,\N,YHP,5471,YNO,5467,,0,BEH
+A variable type transformation failed: WT,\N,YHP,5471,YRL,5527,,0,PL2 BEH
+A variable type transformation failed: WT,\N,YLH,5510,YFH,5491,,0,BEH PL2
+A variable type transformation failed: WT,\N,YLH,5510,YWP,5533,,0,BEH
+A variable type transformation failed: WT,\N,YNO,5467,YHP,5471,,0,PL2 BEH
+A variable type transformation failed: WT,\N,YNO,5467,YRL,5527,,0,BEH
+A variable type transformation failed: WT,\N,YOG,5470,YFH,5491,,0,PL2
+A variable type transformation failed: WT,\N,YPL,105,YQT,121,,0,PL2
+A variable type transformation failed: WT,\N,YPM,5521,YHP,5471,,0,BEH
+A variable type transformation failed: WT,\N,YPM,5521,YNO,5467,,0,PL2 BEH
+A variable type transformation failed: WT,\N,YPM,5521,YRL,5527,,0,PL2
+A variable type transformation failed: WT,\N,YPM,5521,YVZ,5532,,0,BEH
+A variable type transformation failed: WT,\N,YPM,5521,YXL,169,,0,BEH
+A variable type transformation failed: WT,\N,YQT,121,YFH,5491,,0,BEH PL2
+A variable type transformation failed: WT,\N,YQT,121,YWP,5533,,0,BEH PL2
+A variable type transformation failed: WT,\N,YQT,121,YXL,169,,0,BEH
+A variable type transformation failed: WT,\N,YRL,5527,YPM,5521,,0,BEH PL2
+A variable type transformation failed: WT,\N,YRL,5527,YVZ,5532,,0,BEH
+A variable type transformation failed: WT,\N,YRL,5527,YXL,169,,0,BEH PL2
+A variable type transformation failed: WT,\N,YRL,5527,ZSJ,5548,,0,PL2
+A variable type transformation failed: WT,\N,YTL,5531,XBE,5468,,0,BEH
+A variable type transformation failed: WT,\N,YTL,5531,XKS,5480,,0,BEH
+A variable type transformation failed: WT,\N,YTL,5531,YER,5489,,0,BEH
+A variable type transformation failed: WT,\N,YTL,5531,YXL,169,,0,BEH
+A variable type transformation failed: WT,\N,YVZ,5532,ZSJ,5548,,0,BEH
+A variable type transformation failed: WT,\N,YWP,5533,YLH,5510,,0,BEH PL2
+A variable type transformation failed: WT,\N,YWP,5533,YPL,105,,0,BEH
+A variable type transformation failed: WT,\N,YXL,169,KIF,5469,,0,BEH
+A variable type transformation failed: WT,\N,YXL,169,MSA,5544,,0,BEH
+A variable type transformation failed: WT,\N,YXL,169,WNN,5466,,0,BEH
+A variable type transformation failed: WT,\N,YXL,169,XBE,5468,,0,BEH
+A variable type transformation failed: WT,\N,YXL,169,XKS,5480,,0,BEH
+A variable type transformation failed: WT,\N,YXL,169,YAC,5478,,0,BEH
+A variable type transformation failed: WT,\N,YXL,169,YAX,5465,,0,BEH
+A variable type transformation failed: WT,\N,YXL,169,YER,5489,,0,BEH
+A variable type transformation failed: WT,\N,YXL,169,YQT,121,,0,BEH DH1
+A variable type transformation failed: WT,\N,YXL,169,YRL,5527,,0,BEH PL2
+A variable type transformation failed: WT,\N,YXL,169,YTL,5531,,0,BEH
+A variable type transformation failed: WT,\N,YXL,169,ZPB,5546,,0,BEH
+A variable type transformation failed: WT,\N,YXL,169,ZRJ,5547,,0,BEH
+A variable type transformation failed: WT,\N,YXL,169,ZSJ,5548,,0,BEH PL2
+A variable type transformation failed: WT,\N,ZPB,5546,MSA,5544,,0,BEH
+A variable type transformation failed: WT,\N,ZPB,5546,YXL,169,,0,BEH
+A variable type transformation failed: WT,\N,ZRJ,5547,MSA,5544,,0,BEH
+A variable type transformation failed: WT,\N,ZRJ,5547,YAC,5478,,0,BEH
+A variable type transformation failed: WT,\N,ZSJ,5548,KEW,8355,,0,BEH
+A variable type transformation failed: WT,\N,ZSJ,5548,YPM,5521,,0,PL2
+A variable type transformation failed: WT,\N,ZSJ,5548,YRL,5527,,0,PL2 BEH
+A variable type transformation failed: WY,3778,HYD,\N,MCT,2194,,0,738
+A variable type transformation failed: WY,3778,MCT,2194,HYD,\N,,0,738
+A variable type transformation failed: X4,\N,EXI,7141,JNU,3492,,0,PA1
+A variable type transformation failed: X4,\N,JNU,3492,EXI,7141,,0,PA1
+A variable type transformation failed: X4,\N,JNU,3492,KAE,7243,,0,CNC PA2
+A variable type transformation failed: X4,\N,KAE,7243,JNU,3492,,0,CNC PA2
+A variable type transformation failed: XU,\N,ADE,3977,BBO,1122,,0,EM2
+A variable type transformation failed: XU,\N,BBO,1122,ADE,3977,,0,EM2
+A variable type transformation failed: XU,\N,BBO,1122,BSA,5686,,0,EM2
+A variable type transformation failed: XU,\N,BBO,1122,DXB,2188,,0,M82
+A variable type transformation failed: XU,\N,BBO,1122,MGQ,5687,,0,M82
+A variable type transformation failed: XU,\N,BBO,1122,SHJ,2191,,0,M82
+A variable type transformation failed: XU,\N,BSA,5686,BBO,1122,,0,EM2
+A variable type transformation failed: XU,\N,BSA,5686,GLK,5688,,0,EM2
+A variable type transformation failed: XU,\N,DXB,2188,BBO,1122,,0,M82
+A variable type transformation failed: XU,\N,DXB,2188,HGA,1121,,0,M82
+A variable type transformation failed: XU,\N,EBB,1187,NBO,4059,,0,M82
+A variable type transformation failed: XU,\N,GLK,5688,BSA,5686,,0,EM2
+A variable type transformation failed: XU,\N,GLK,5688,MGQ,5687,,0,EM2
+A variable type transformation failed: XU,\N,GLK,5688,WJR,1149,,0,EM2
+A variable type transformation failed: XU,\N,HGA,1121,BBO,1122,,0,M82
+A variable type transformation failed: XU,\N,HGA,1121,WJR,1149,,0,EM2
+A variable type transformation failed: XU,\N,MGQ,5687,BBO,1122,,0,M82
+A variable type transformation failed: XU,\N,MGQ,5687,GLK,5688,,0,EM2
+A variable type transformation failed: XU,\N,MGQ,5687,HGA,1121,,0,M82
+A variable type transformation failed: XU,\N,MGQ,5687,WJR,1149,,0,M82 DC9
+A variable type transformation failed: XU,\N,NBO,4059,EBB,1187,,0,M82
+A variable type transformation failed: XU,\N,NBO,4059,GLK,5688,,0,EM2
+A variable type transformation failed: XU,\N,NBO,4059,HGA,1121,,0,EM2
+A variable type transformation failed: XU,\N,NBO,4059,MGQ,5687,,0,M82 DC9
+A variable type transformation failed: XU,\N,SHJ,2191,HGA,1121,,0,M82
+A variable type transformation failed: XU,\N,WJR,1149,NBO,4059,,0,M82 EM2 DC9
+A variable type transformation failed: Y7,13088,KJA,4374,TGP,\N,,0,AT5
+A variable type transformation failed: Y7,13088,KJA,4374,THX,\N,,0,AT5
+A variable type transformation failed: Y7,13088,TGP,\N,KJA,4374,,0,AT5
+A variable type transformation failed: Y7,13088,THX,\N,KJA,4374,,0,AT5
+A variable type transformation failed: YJ,\N,HEH,3213,MDL,3222,,0,AT7
+A variable type transformation failed: YJ,\N,HEH,3213,RGN,3239,,0,AT7
+A variable type transformation failed: YJ,\N,MDL,3222,HEH,3213,,0,AT7
+A variable type transformation failed: YJ,\N,MDL,3222,MYT,3224,,0,AT7
+A variable type transformation failed: YJ,\N,MDL,3222,NYU,3209,,0,AT7
+A variable type transformation failed: YJ,\N,MDL,3222,RGN,3239,,0,AT7
+A variable type transformation failed: YJ,\N,MDL,3222,THL,3237,,0,AT7
+A variable type transformation failed: YJ,\N,MYT,3224,MDL,3222,,0,AT7
+A variable type transformation failed: YJ,\N,NYU,3209,MDL,3222,,0,AT7
+A variable type transformation failed: YJ,\N,NYU,3209,RGN,3239,,0,AT7
+A variable type transformation failed: YJ,\N,RGN,3239,HEH,3213,,0,AT7
+A variable type transformation failed: YJ,\N,RGN,3239,MDL,3222,,0,AT7
+A variable type transformation failed: YJ,\N,RGN,3239,NYU,3209,,0,AT7
+A variable type transformation failed: YJ,\N,THL,3237,HEH,3213,,0,AT7
+A variable type transformation failed: YN,\N,YAT,5482,YPO,5522,,0,DH1
+A variable type transformation failed: YN,\N,YAT,5482,ZKE,5543,,0,DH1
+A variable type transformation failed: YN,\N,YFA,5490,YMO,91,,0,DH1
+A variable type transformation failed: YN,\N,YFA,5490,ZKE,5543,,0,DH1
+A variable type transformation failed: YN,\N,YGW,5496,YKU,5472,,0,DH8
+A variable type transformation failed: YN,\N,YKQ,5507,YKU,5472,,0,DH8
+A variable type transformation failed: YN,\N,YKQ,5507,YMO,91,,0,BEC
+A variable type transformation failed: YN,\N,YKQ,5507,YMT,5514,,0,DH8
+A variable type transformation failed: YN,\N,YKQ,5507,YNS,5501,,0,DH8
+A variable type transformation failed: YN,\N,YKQ,5507,YVO,153,,0,DH8
+A variable type transformation failed: YN,\N,YKQ,5507,ZEM,5539,,0,DH8
+A variable type transformation failed: YN,\N,YKU,5472,YGW,5496,,0,DH8
+A variable type transformation failed: YN,\N,YKU,5472,YKQ,5507,,0,DH8
+A variable type transformation failed: YN,\N,YKU,5472,YNC,5516,,0,DH8
+A variable type transformation failed: YN,\N,YKU,5472,YVO,153,,0,BET
+A variable type transformation failed: YN,\N,YMO,91,YFA,5490,,0,DH1
+A variable type transformation failed: YN,\N,YMO,91,YKQ,5507,,0,BEC
+A variable type transformation failed: YN,\N,YMO,91,YTS,143,,0,BEC DH1 EMB
+A variable type transformation failed: YN,\N,YMT,5514,YKQ,5507,,0,DH8
+A variable type transformation failed: YN,\N,YMT,5514,YNS,5501,,0,DH8
+A variable type transformation failed: YN,\N,YMT,5514,YUL,146,,0,DH8
+A variable type transformation failed: YN,\N,YNC,5516,YKU,5472,,0,DH8
+A variable type transformation failed: YN,\N,YNC,5516,ZEM,5539,,0,DH8
+A variable type transformation failed: YN,\N,YNS,5501,YKQ,5507,,0,DH8
+A variable type transformation failed: YN,\N,YNS,5501,YMT,5514,,0,DH8
+A variable type transformation failed: YN,\N,YPO,5522,YAT,5482,,0,DH1
+A variable type transformation failed: YN,\N,YTS,143,YMO,91,,0,DH1 BEC
+A variable type transformation failed: YN,\N,YUL,146,YMT,5514,,0,DH8
+A variable type transformation failed: YN,\N,YUL,146,YVO,153,,0,DH8
+A variable type transformation failed: YN,\N,YVO,153,YKQ,5507,,0,DH8
+A variable type transformation failed: YN,\N,YVO,153,YKU,5472,,0,BET
+A variable type transformation failed: YN,\N,YVO,153,YUL,146,,0,DH8
+A variable type transformation failed: YN,\N,ZEM,5539,YKQ,5507,,0,DH8
+A variable type transformation failed: YN,\N,ZEM,5539,YNC,5516,,0,DH8
+A variable type transformation failed: YN,\N,ZKE,5543,YAT,5482,,0,DH1
+A variable type transformation failed: YN,\N,ZKE,5543,YFA,5490,,0,DH1
+A variable type transformation failed: YT,16133,JKR,\N,KTM,3125,,0,J41
+A variable type transformation failed: YT,16133,KTM,3125,JKR,\N,,0,J41
+A variable type transformation failed: Z3,1266,KTN,3808,KWF,\N,,0,DHP
+A variable type transformation failed: Z3,1266,KWF,\N,KTN,3808,,0,DHP
+A variable type transformation failed: Z8,603,ORU,\N,CBB,2759,,0,SWM
+A variable type transformation failed: Z8,603,ORU,\N,SRZ,4247,,0,SWM
+A variable type transformation failed: Z8,603,SRZ,4247,ORU,\N,,0,SWM
+A variable type transformation failed: ZD,\N,DAR,1177,DZA,915,,0,AT7
+A variable type transformation failed: ZD,\N,DZA,915,DAR,1177,,0,AT7
+A variable type transformation failed: ZD,\N,DZA,915,HAH,912,,0,AT7
+A variable type transformation failed: ZD,\N,DZA,915,MJN,929,,0,AT7
+A variable type transformation failed: ZD,\N,DZA,915,NOS,930,,0,AT7
+A variable type transformation failed: ZD,\N,HAH,912,DZA,915,,0,AT7
+A variable type transformation failed: ZD,\N,MJN,929,DZA,915,,0,AT7
+A variable type transformation failed: ZD,\N,NOS,930,DZA,915,,0,AT7
+A variable type transformation failed: ZI,21,ALG,210,MLH,\N,,0,320
+A variable type transformation failed: ZI,21,CZL,221,MLH,\N,,0,320
+A variable type transformation failed: ZI,21,MLH,\N,ALG,210,,0,320
+A variable type transformation failed: ZI,21,MLH,\N,CZL,221,,0,320
+A variable type transformation failed: ZI,21,MLH,\N,ORN,231,,0,319
+A variable type transformation failed: ZI,21,MLH,\N,QSF,6492,,0,320
+A variable type transformation failed: ZI,21,ORN,231,MLH,\N,,0,319
+A variable type transformation failed: ZI,21,QSF,6492,MLH,\N,,0,320

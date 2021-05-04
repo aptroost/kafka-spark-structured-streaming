@@ -1,3 +1,4 @@
+<!-- /Users/aptroost/Repositories/kafka-spark-structured-streaming -->
 # Near real-time stream processing pipeline
 This is a simple 'real-time' stream processing pipeline using Docker, Kafka, Spark 3.0, Python and Flask.
 
@@ -87,13 +88,13 @@ After that, go to [http://0.0.0.0:5000/produce](http://0.0.0.0:5000/produce) to 
 ```json
 {
 	"data": [{
-		"count": 933,
+		"count": 915,
 		"source_airport": "ATL"
 	}, {
-		"count": 564,
+		"count": 558,
 		"source_airport": "ORD"
 	}, {
-		"count": 547,
+		"count": 535,
 		"source_airport": "PEK"
 	}, {
 		"count": 525,
@@ -105,16 +106,16 @@ After that, go to [http://0.0.0.0:5000/produce](http://0.0.0.0:5000/produce) to 
 		"count": 497,
 		"source_airport": "FRA"
 	}, {
-		"count": 495,
+		"count": 492,
 		"source_airport": "LAX"
-	}, {
-		"count": 486,
-		"source_airport": "CTU"
 	}, {
 		"count": 469,
 		"source_airport": "DFW"
 	}, {
-		"count": 459,
+		"count": 456,
+		"source_airport": "JFK"
+	}, {
+		"count": 453,
 		"source_airport": "AMS"
 	}],
 	"error": false,
@@ -127,55 +128,55 @@ After that, go to [http://0.0.0.0:5000/produce](http://0.0.0.0:5000/produce) to 
 ```json
 {
 	"data": [{
-		"count": 5115,
-		"end": "2021-05-03 10:18:30",
+		"count": 5142,
+		"end": "2021-05-04 09:59:00",
 		"equipment": "738",
-		"start": "2021-05-03 10:18:00"
+		"start": "2021-05-04 09:58:30"
 	}, {
-		"count": 4169,
-		"end": "2021-05-03 10:19:00",
+		"count": 4870,
+		"end": "2021-05-04 09:59:00",
 		"equipment": "320",
-		"start": "2021-05-03 10:18:30"
+		"start": "2021-05-04 09:58:30"
 	}, {
-		"count": 4117,
-		"end": "2021-05-03 10:18:30",
+		"count": 4245,
+		"end": "2021-05-04 09:59:30",
 		"equipment": "320",
-		"start": "2021-05-03 10:18:00"
+		"start": "2021-05-04 09:59:00"
 	}, {
-		"count": 1951,
-		"end": "2021-05-03 10:19:00",
+		"count": 1974,
+		"end": "2021-05-04 09:59:30",
 		"equipment": "738",
-		"start": "2021-05-03 10:18:30"
+		"start": "2021-05-04 09:59:00"
 	}, {
-		"count": 1592,
-		"end": "2021-05-03 10:19:00",
+		"count": 1795,
+		"end": "2021-05-04 09:59:00",
 		"equipment": "319",
-		"start": "2021-05-03 10:18:30"
+		"start": "2021-05-04 09:58:30"
 	}, {
-		"count": 1356,
-		"end": "2021-05-03 10:18:30",
+		"count": 1611,
+		"end": "2021-05-04 09:59:30",
 		"equipment": "319",
-		"start": "2021-05-03 10:18:00"
+		"start": "2021-05-04 09:59:00"
 	}, {
-		"count": 1159,
-		"end": "2021-05-03 10:19:00",
+		"count": 1296,
+		"end": "2021-05-04 09:59:30",
 		"equipment": "737",
-		"start": "2021-05-03 10:18:30"
+		"start": "2021-05-04 09:59:00"
 	}, {
 		"count": 1077,
-		"end": "2021-05-03 10:18:30",
+		"end": "2021-05-04 09:59:00",
 		"equipment": "73H",
-		"start": "2021-05-03 10:18:00"
+		"start": "2021-05-04 09:58:30"
 	}, {
 		"count": 963,
-		"end": "2021-05-03 10:19:00",
+		"end": "2021-05-04 09:59:30",
 		"equipment": "73H",
-		"start": "2021-05-03 10:18:30"
+		"start": "2021-05-04 09:59:00"
 	}, {
-		"count": 950,
-		"end": "2021-05-03 10:18:30",
+		"count": 903,
+		"end": "2021-05-04 09:59:00",
 		"equipment": "737",
-		"start": "2021-05-03 10:18:00"
+		"start": "2021-05-04 09:58:30"
 	}],
 	"error": false,
 	"message": "top10_equipment_30min_window",
@@ -190,7 +191,7 @@ After that, go to [http://0.0.0.0:5000/produce](http://0.0.0.0:5000/produce) to 
         "airline": "2B",
         "airline_id": 410,
         "codeshare": false,
-        "datetime": "Mon, 03 May 2021 08:22:26 GMT",
+        "datetime": "Tue, 04 May 2021 09:58:32 GMT",
         "destination_airport": "KZN",
         "destination_airport_id": 2990,
         "equipment": "CR2",
@@ -206,7 +207,7 @@ After that, go to [http://0.0.0.0:5000/produce](http://0.0.0.0:5000/produce) to 
         "airline": "ZM",
         "airline_id": 19016,
         "codeshare": false,
-        "datetime": "Mon, 03 May 2021 10:18:52 GMT",
+        "datetime": "Tue, 04 May 2021 09:59:23 GMT",
         "destination_airport": "FRU",
         "destination_airport_id": 2912,
         "equipment": "734",

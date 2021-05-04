@@ -1,11 +1,11 @@
 window,equipment,count
-"Row(start=datetime.datetime(2021, 5, 4, 7, 57), end=datetime.datetime(2021, 5, 4, 7, 57, 30))",320,6991
-"Row(start=datetime.datetime(2021, 5, 3, 11, 8, 30), end=datetime.datetime(2021, 5, 3, 11, 9))",320,6545
-"Row(start=datetime.datetime(2021, 5, 4, 7, 57), end=datetime.datetime(2021, 5, 4, 7, 57, 30))",738,6271
-"Row(start=datetime.datetime(2021, 5, 3, 11, 8, 30), end=datetime.datetime(2021, 5, 3, 11, 9))",738,5449
-"Row(start=datetime.datetime(2021, 5, 4, 7, 57), end=datetime.datetime(2021, 5, 4, 7, 57, 30))",319,2618
-"Row(start=datetime.datetime(2021, 5, 3, 11, 8), end=datetime.datetime(2021, 5, 3, 11, 8, 30))",320,2570
-"Row(start=datetime.datetime(2021, 5, 3, 11, 8, 30), end=datetime.datetime(2021, 5, 3, 11, 9))",319,2243
-"Row(start=datetime.datetime(2021, 5, 3, 11, 8, 30), end=datetime.datetime(2021, 5, 3, 11, 9))",73H,1883
-"Row(start=datetime.datetime(2021, 5, 4, 7, 57), end=datetime.datetime(2021, 5, 4, 7, 57, 30))",737,1743
-"Row(start=datetime.datetime(2021, 5, 4, 7, 57), end=datetime.datetime(2021, 5, 4, 7, 57, 30))",73H,1701
+"Row(start=datetime.datetime(2021, 5, 4, 9, 58, 30), end=datetime.datetime(2021, 5, 4, 9, 59))",738,5142
+"Row(start=datetime.datetime(2021, 5, 4, 9, 58, 30), end=datetime.datetime(2021, 5, 4, 9, 59))",320,4870
+"Row(start=datetime.datetime(2021, 5, 4, 9, 59), end=datetime.datetime(2021, 5, 4, 9, 59, 30))",320,4245
+"Row(start=datetime.datetime(2021, 5, 4, 9, 59), end=datetime.datetime(2021, 5, 4, 9, 59, 30))",738,1974
+"Row(start=datetime.datetime(2021, 5, 4, 9, 58, 30), end=datetime.datetime(2021, 5, 4, 9, 59))",319,1795
+"Row(start=datetime.datetime(2021, 5, 4, 9, 59), end=datetime.datetime(2021, 5, 4, 9, 59, 30))",319,1611
+"Row(start=datetime.datetime(2021, 5, 4, 9, 59), end=datetime.datetime(2021, 5, 4, 9, 59, 30))",737,1296
+"Row(start=datetime.datetime(2021, 5, 4, 9, 58, 30), end=datetime.datetime(2021, 5, 4, 9, 59))",73H,1077
+"Row(start=datetime.datetime(2021, 5, 4, 9, 59), end=datetime.datetime(2021, 5, 4, 9, 59, 30))",73H,963
+"Row(start=datetime.datetime(2021, 5, 4, 9, 58, 30), end=datetime.datetime(2021, 5, 4, 9, 59))",737,903
