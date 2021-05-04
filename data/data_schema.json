@@ -1,0 +1,59 @@
+{
+  "type": "record",
+  "doc": "This event records routes between airports on airlines.",
+  "name": "AirlineRouteEvent",
+  "fields": [{
+      "name": "id",
+      "type": "string",
+      "doc": "A universally unique identifier that is generated using random numbers"
+    },{
+      "name": "datetime",
+      "type": "string",
+      "doc": "The produced event datetime in UTC format"
+    },{
+      "name": "airline",
+      "type": "string",
+      "doc": "2-letter (IATA) or 3-letter (ICAO) code of the airline"
+    },
+    {
+      "name": "airline_id",
+      "type": "int",
+      "doc": "Unique OpenFlights identifier for airline"
+    },
+    {
+      "name": "source_airport",
+      "type": "string",
+      "doc": "3-letter (IATA) or 4-letter (ICAO) code of the source airport"
+    },
+    {
+      "name": "source_airport_id",
+      "type": "int",
+      "doc": "Unique OpenFlights identifier for source airport"
+    },
+    {
+      "name": "destination_airport",
+      "type": "string",
+      "doc": "3-letter (IATA) or 4-letter (ICAO) code of the destination airport"
+    },
+    {
+      "name": "destination_airport_id",
+      "type": "int",
+      "doc": "Unique OpenFlights identifier for destination airport"
+    },
+    {
+      "name": "codeshare",
+      "type": "boolean",
+      "doc": "True if this flight is a codeshare (that is, not operated by Airline, but another carrier)"
+    },
+    {
+      "name": "stops",
+      "type": "int",
+      "doc": "Number of stops on this flight ('0' for direct)"
+    },
+    {
+      "name": "equipment",
+      "type": "string",
+      "doc": "3-letter codes for plane type(s) generally used on this flight, separated by spaces"
+    }
+  ]
+}
