@@ -1,5 +1,32 @@
-<!-- /Users/aptroost/Repositories/kafka-spark-structured-streaming -->
-## Spark structured streaming
+# Near real-time stream processing pipeline
+This is a simple 'real-time' stream processing pipeline using Docker, Kafka, Spark 3.0, Python and Flask.
+
+The dataset that will be used is from [OpenFlights](https://raw.githubusercontent.com/jpatokal/openflights/master/data/routes.dat) . The documentation for this data can be found [here](https://openflights.org/data.html).
+
+The Dockerfiles used are based on [this](https://github.com/Wesley-Bos/spark3.0-examples) repository.
+
+
+## Methodology
+
+1. Production: Data are created over time. In this example we use the data file stored in `data/routes.dat` that will simulate a continuous stream of data.
+2. Receiving: The produced data are sent to Kafka, where they will be collected continuously over time.
+3. Query: With Spark Structured Streaming the dataset in Kafka can be queried with the most recent produced data.
+4. User Interface:
+- In this method it is chosen that data are produced using Flask and egressed towards Kafka to simulate a continuous data stream.
+- Using a Flask route, Spark queries can be triggered and presented on a web page in JSON format. These results are stored in CSV format in `results/*.csv`.
+
+
+![methodology](method.jpg)
+
+## Setup
+Kafka runs its own Confluent environment with a broker that can be accessed on an exposed port.
+
+Spark runs in a separate container, where the Flask application runs in as well. Flask can then be accessed using the exposed port and use Spark installed in that container. Spark can then access Kafka running in a separate container.
+
+
+
+## How to use
+
 1. Launch the Kafka environment:
 ```
 docker-compose -f ./kafka/docker-compose.yml up -d
@@ -13,7 +40,7 @@ docker-compose -f ./kafka/docker-compose.yml up -d
 docker network create kafka-net
 docker network connect kafka-net broker
 ```
-4. Run Spark container
+4. Run Spark container (change `<path_to_your_repo>`)
 ```
 docker run --rm -p 5000:5000 -it -v <path_to_your_repo>/results:/opt/spark/results --name spark_chief spark-chief sh
 ```
@@ -23,65 +50,12 @@ docker network connect kafka-net spark_chief
 ```
 6. Produce data
 
-## Avro Schema
+Wait until the first terminal returns the following:
 ```
-data/data_schema.json
-```
-
-```json
-{
-	"type": "record",
-	"doc": "This event records routes between airports on airlines.",
-	"name": "AirlineRouteEvent",
-	"fields": [{
-		"name": "id",
-		"type": "string",
-		"doc": "A universally unique identifier that is generated using random numbers"
-	}, {
-		"name": "datetime",
-		"type": "string",
-		"doc": "The produced event datetime in UTC format"
-	}, {
-		"name": "airline",
-		"type": "string",
-		"doc": "2-letter (IATA) or 3-letter (ICAO) code of the airline"
-	}, {
-		"name": "airline_id",
-		"type": "int",
-		"doc": "Unique OpenFlights identifier for airline"
-	}, {
-		"name": "source_airport",
-		"type": "string",
-		"doc": "3-letter (IATA) or 4-letter (ICAO) code of the source airport"
-	}, {
-		"name": "source_airport_id",
-		"type": "int",
-		"doc": "Unique OpenFlights identifier for source airport"
-	}, {
-		"name": "destination_airport",
-		"type": "string",
-		"doc": "3-letter (IATA) or 4-letter (ICAO) code of the destination airport"
-	}, {
-		"name": "destination_airport_id",
-		"type": "int",
-		"doc": "Unique OpenFlights identifier for destination airport"
-	}, {
-		"name": "codeshare",
-		"type": "boolean",
-		"doc": "True if this flight is a codeshare (that is, not operated by Airline, but another carrier)"
-	}, {
-		"name": "stops",
-		"type": "int",
-		"doc": "Number of stops on this flight (0 for direct)"
-	}, {
-		"name": "equipment",
-		"type": "string",
-		"doc": "3-letter codes for plane type(s) generally used on this flight, separated by spaces"
-	}]
-}
+* Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
 ```
 
-[http://0.0.0.0:5000/produce](http://0.0.0.0:5000/produce)
+After that, go to [http://0.0.0.0:5000/produce](http://0.0.0.0:5000/produce) to initiate the data production, resulting in:
 ```json
 {
 	"data": [{
@@ -107,7 +81,7 @@ data/data_schema.json
 }
 ```
 
-7. Run different views
+7. Run different views.
 
 [http://0.0.0.0:5000/top10_source_airport](http://0.0.0.0:5000/top10_source_airport)
 ```json
@@ -244,5 +218,63 @@ data/data_schema.json
     "error": false,
     "message": "dump_table",
     "statusCode": 200
+}
+```
+
+
+## Addendum: Avro Schema
+
+Below is the Avro schema stored in `data/data_schema.json` used to ingest the data before sending to Kafka.
+
+```json
+{
+	"type": "record",
+	"doc": "This event records routes between airports on airlines.",
+	"name": "AirlineRouteEvent",
+	"fields": [{
+		"name": "id",
+		"type": "string",
+		"doc": "A universally unique identifier that is generated using random numbers"
+	}, {
+		"name": "datetime",
+		"type": "string",
+		"doc": "The produced event datetime in UTC format"
+	}, {
+		"name": "airline",
+		"type": "string",
+		"doc": "2-letter (IATA) or 3-letter (ICAO) code of the airline"
+	}, {
+		"name": "airline_id",
+		"type": "int",
+		"doc": "Unique OpenFlights identifier for airline"
+	}, {
+		"name": "source_airport",
+		"type": "string",
+		"doc": "3-letter (IATA) or 4-letter (ICAO) code of the source airport"
+	}, {
+		"name": "source_airport_id",
+		"type": "int",
+		"doc": "Unique OpenFlights identifier for source airport"
+	}, {
+		"name": "destination_airport",
+		"type": "string",
+		"doc": "3-letter (IATA) or 4-letter (ICAO) code of the destination airport"
+	}, {
+		"name": "destination_airport_id",
+		"type": "int",
+		"doc": "Unique OpenFlights identifier for destination airport"
+	}, {
+		"name": "codeshare",
+		"type": "boolean",
+		"doc": "True if this flight is a codeshare (that is, not operated by Airline, but another carrier)"
+	}, {
+		"name": "stops",
+		"type": "int",
+		"doc": "Number of stops on this flight (0 for direct)"
+	}, {
+		"name": "equipment",
+		"type": "string",
+		"doc": "3-letter codes for plane type(s) generally used on this flight, separated by spaces"
+	}]
 }
 ```
