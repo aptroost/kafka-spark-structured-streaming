@@ -40,7 +40,7 @@ WORKDIR $SPARK_HOME
 COPY log4j.properties $SPARK_HOME/conf
 COPY data $SPARK_HOME/data/
 COPY app $SPARK_HOME/app/
-COPY results $SPARK_HOME/results/
+# COPY results $SPARK_HOME/results/
 COPY requirements.txt /
 
 # INSTALL PY REQUIREMENTS

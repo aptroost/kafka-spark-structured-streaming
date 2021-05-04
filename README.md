@@ -1,3 +1,28 @@
+<!-- /Users/aptroost/Repositories/kafka-spark-structured-streaming -->
+## Spark structured streaming
+1. Launch the Kafka environment:
+```
+docker-compose -f ./kafka/docker-compose.yml up -d
+```
+2. Build Spark container with Flask app:
+```
+​docker build -t spark-chief -f Dockerfile .
+```
+3. Create common network and connect the Kafka broker:
+```
+docker network create kafka-net
+docker network connect kafka-net broker
+```
+4. Run Spark container
+```
+docker run --rm -p 5000:5000 -it -v <path_to_your_repo>/results:/opt/spark/results --name spark_chief spark-chief sh
+```
+5. In a separate terminal, connect the Spark container to the common network.
+```
+docker network connect kafka-net spark_chief
+```
+6. Produce data
+
 ## Avro Schema
 ```
 data/data_schema.json
@@ -55,30 +80,6 @@ data/data_schema.json
 	}]
 }
 ```
-
-## Spark structured streaming
-1. Launch the Kafka environment:
-```
-docker-compose -f ./kafka/docker-compose.yml up -d
-```
-2. Build Spark container with Flask app:
-```
-​docker build -t spark-chief -f Dockerfile .
-```
-3. Create common network and connect the Kafka broker:
-```
-docker network create kafka-net
-docker network connect kafka-net broker
-```
-4. Run Spark container
-```
-docker run --rm -p 5000:5000 -it --name spark_chief spark-chief sh
-```
-5. In a separate terminal, connect the Spark container to the common network.
-```
-docker network connect kafka-net spark_chief
-```
-6. Produce data
 
 [http://0.0.0.0:5000/produce](http://0.0.0.0:5000/produce)
 ```json

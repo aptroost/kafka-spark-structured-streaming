@@ -89,7 +89,7 @@ def run_query(q, name, outputMode, outputFormat):
 
         spark_query = spark.sql('SELECT * FROM ' + unique_query_name)
         df_pandas = spark_query.toPandas()
-        df_pandas.to_csv(name + '.csv', index=False)
+        df_pandas.to_csv(os.environ['SPARK_HOME'] + '/results/' + name + '.csv', index=False)
 
         if len(df_pandas.index) > 0:
             return df_pandas
